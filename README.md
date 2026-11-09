@@ -40,8 +40,8 @@
 
 ## Install
 
-1. Download [`La-pipelette.apk`](La-pipelette.apk?raw=1).
-2. (Optional) Verify it: the output of `sha256sum La-pipelette.apk` must match [`La-pipelette.apk.sha256`](La-pipelette.apk.sha256).
+1. Download [`La-pipelette.apk`](https://github.com/HCIBO/LaPipelette/releases/download/v1.0.0/La-pipelette.apk).
+2. (Optional) Verify it: the output of `sha256sum La-pipelette.apk` must match [`La-pipelette.apk.sha256`](https://github.com/HCIBO/LaPipelette/releases/download/v1.0.0/La-pipelette.apk.sha256).
 3. Open the APK on your phone and allow "Install unknown apps" when Android asks.
 4. Open La pipelette → tap **Start** → accept the VPN prompt, then use any app.
 

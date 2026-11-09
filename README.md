@@ -1,4 +1,8 @@
-# La pipelette
+<p align="center">
+  <img src="docs/icon.png" width="120" alt="La pipelette icon">
+</p>
+
+<h1 align="center">La pipelette</h1>
 
 **A mobile pentest toolkit that runs on the phone itself.** Capture and decrypt app traffic, replay and fuzz requests, bypass SSL pinning with one tap, and reverse-engineer APKs — no laptop, no proxy setup, no cables.
 
